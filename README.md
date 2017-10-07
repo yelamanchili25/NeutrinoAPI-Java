@@ -23,7 +23,7 @@ you will need internet access for a successful build.
 
 ![Importing SDK into Eclipse - Step 4](https://apidocs.io/illustration/java?step=import3&workspaceFolder=NeutrinoAPI-Java&workspaceName=NeutrinoAPI&projectName=NeutrinoAPI&rootNamespace=com.neutrinoapi.sdk)
 
-## How to Use
+## How to Use it
 
 The following section explains how to use the NeutrinoAPI library in a new console project.
 
