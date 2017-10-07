@@ -27,7 +27,7 @@ you will need internet access for a successful build.
 
 The following section explains how to use the NeutrinoAPI library in a new console project.
 
-### 1. Starting a new project
+### 1. Starting one new project
 
 For starting a new project, click the menu command ``` File > New > Project ```.
 
