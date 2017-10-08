@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is first file
+=======
+this is bagya
+>>>>>>> df4bf947a4085aa87a381061f1b0bb7081b7e9f7
